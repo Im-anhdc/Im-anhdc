@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Im-anhdc call me anhdc
-- 🌱 I’m currently learning Academi Of Cryptography Techniques
+- 🌱 I’m currently learning Academy Of Cryptography Techniques
 - 📫 How to reach me anhdc@duck.com
 
 <!---
