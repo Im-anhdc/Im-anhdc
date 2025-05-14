@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Im-anhdc call me anhdc
-- 🌱 I’m currently learning Academy Of Cryptography Techniques
-- 🌱 I'm working as a SOC Analyst at MBbank
+- 🌱 I’m currently learning as Master degree of Infomation Security at Academy Of Cryptography Techniques
+- 🌱 I'm working as a Cybersecurity Specialist at MBBank
 - 📫 How to reach me anhdc@duck.com
 - My Linkedin: [link](https://www.linkedin.com/in/chunganhdoan/)
 <!---
